@@ -1,0 +1,17 @@
+C:\Users\Hafiz laptop\source\repos\Question_3\Question_3\bin\Debug\net6.0-windows\Question_3.exe
+C:\Users\Hafiz laptop\source\repos\Question_3\Question_3\bin\Debug\net6.0-windows\Question_3.deps.json
+C:\Users\Hafiz laptop\source\repos\Question_3\Question_3\bin\Debug\net6.0-windows\Question_3.runtimeconfig.json
+C:\Users\Hafiz laptop\source\repos\Question_3\Question_3\bin\Debug\net6.0-windows\Question_3.dll
+C:\Users\Hafiz laptop\source\repos\Question_3\Question_3\bin\Debug\net6.0-windows\Question_3.pdb
+C:\Users\Hafiz laptop\source\repos\Question_3\Question_3\obj\Debug\net6.0-windows\Question_3.csproj.AssemblyReference.cache
+C:\Users\Hafiz laptop\source\repos\Question_3\Question_3\obj\Debug\net6.0-windows\Question_3.Form1.resources
+C:\Users\Hafiz laptop\source\repos\Question_3\Question_3\obj\Debug\net6.0-windows\Question_3.csproj.GenerateResource.cache
+C:\Users\Hafiz laptop\source\repos\Question_3\Question_3\obj\Debug\net6.0-windows\Question_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hafiz laptop\source\repos\Question_3\Question_3\obj\Debug\net6.0-windows\Question_3.AssemblyInfoInputs.cache
+C:\Users\Hafiz laptop\source\repos\Question_3\Question_3\obj\Debug\net6.0-windows\Question_3.AssemblyInfo.cs
+C:\Users\Hafiz laptop\source\repos\Question_3\Question_3\obj\Debug\net6.0-windows\Question_3.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz laptop\source\repos\Question_3\Question_3\obj\Debug\net6.0-windows\Question_3.dll
+C:\Users\Hafiz laptop\source\repos\Question_3\Question_3\obj\Debug\net6.0-windows\refint\Question_3.dll
+C:\Users\Hafiz laptop\source\repos\Question_3\Question_3\obj\Debug\net6.0-windows\Question_3.pdb
+C:\Users\Hafiz laptop\source\repos\Question_3\Question_3\obj\Debug\net6.0-windows\Question_3.genruntimeconfig.cache
+C:\Users\Hafiz laptop\source\repos\Question_3\Question_3\obj\Debug\net6.0-windows\ref\Question_3.dll
